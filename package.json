@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "masterPortfolio",
-  "homepage": ".",
+  "name": "advanceddev-jonathanclifton",
   "version": "0.1.0",
+  "homepage": ".",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
